@@ -4,7 +4,7 @@
 # Reviwer HQZq
 Q1:
 
-![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc100.png)
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/TESTattack.png)
 
 
 # Reviewer msjs
