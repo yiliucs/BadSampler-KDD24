@@ -1,6 +1,8 @@
 # BadSampler-KDD24
 ## Additional experimental results
 
+Our attack code: https://github.com/yiliucs/BadSampler-KDD24/blob/main/BadSampler.zip
+
 # Reviwer HQZq
 Q1:
 
