@@ -11,7 +11,7 @@ Q1:
 | ----------- | ----------- |
 |Ours (Meta)|5.44%|
 
-![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc.png)
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc1000_10.png)
 
 
 Q2:
@@ -24,16 +24,17 @@ Q2:
 
 Q3:
 
- - The mentioned accuracy (loss) trajectories pertain to the test accuracy (loss) trajectories of the global model, both with and without the BadSampler attack. 
-![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc.png)
-
-![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/loss.png)
-
- - The mentioned accuracy (loss) trajectories pertain to the test accuracy (loss) trajectories of the local client, both with and without the BadSampler attack.
+ - The mentioned accuracy (loss) trajectories pertain to the test accuracy (loss) trajectories of the global model, both with and without the BadSampler attack.
 
 ![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc.png)
 
 ![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/loss.png)
+
+ - The validation accuracy (loss) trajectories of the local client, both with and without the BadSampler attack.
+
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/valacc_cifar.png)
+
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/valloss_cifar.png)
 
 
 # Reviwer HQZq
