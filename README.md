@@ -3,6 +3,39 @@
 
 Our attack code: https://github.com/yiliucs/BadSampler-KDD24/blob/main/BadSampler.zip
 
+# New Results for Reviewer msjs
+
+Q1:
+
+| Attack (K=1000, M=1%)    | $\Delta$ |
+| ----------- | ----------- |
+|Ours (Meta)|5.44%|
+
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc.png)
+
+
+Q2:
+
+| Defences     | $\Delta$ |
+| ----------- | ----------- |
+|[R3]|7.68%|
+|[R4]|8.97%|
+|[31]|6.42%|
+
+Q3:
+
+ - The mentioned accuracy (loss) trajectories pertain to the test accuracy (loss) trajectories of the global model, both with and without the BadSampler attack. 
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc.png)
+
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/loss.png)
+
+ - The mentioned accuracy (loss) trajectories pertain to the test accuracy (loss) trajectories of the local client, both with and without the BadSampler attack.
+
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/Acc.png)
+
+![fig 1](https://github.com/yiliucs/BadSampler-KDD24/blob/main/loss.png)
+
+
 # Reviwer HQZq
 Q1:
 
